@@ -4,5 +4,5 @@
 2. Download and extract the Github files
 3. upload the github files in the XAMPP-> htdocs -> Create a folder SnapHpy -> upload in SnapHpy
 4. Start the XAMPP and MySQL 
-5. open any browser cpoy and paste it **localhost/SnapHpy**
+5. open any browser copy and paste it **localhost/SnapHpy**
 6. Enjoy the photography webiste
